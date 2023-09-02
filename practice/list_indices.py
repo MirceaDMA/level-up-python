@@ -8,5 +8,5 @@ def index_all(search_list, item):
                 index_list.append([index]+i)
     return index_list
     
-# example_list = [[[1, 2, 3], 2, [1, 3]], [1, 2, 3]]
+# example_list = [[[1, 2, 3], 2, [1, 3]], 2, [1, 2, 3]]
 # search_item = 2
